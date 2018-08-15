@@ -12,9 +12,7 @@ It requires:
 ## Installation
 
 ```
-$ cd buffalo-plugin-template source directory
-$ go build
-$ go install
+$ go get github.com/mjfryc/buffalo-plugin-template
 
 # Let's check if Buffalo recognizes this plugin:
 $ buffalo generate --help
